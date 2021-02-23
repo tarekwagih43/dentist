@@ -1,0 +1,11 @@
+E:\school\dantis\dentis\obj\Debug\dentis.csprojAssemblyReference.cache
+E:\school\dantis\dentis\obj\Debug\dentis.login.resources
+E:\school\dantis\dentis\obj\Debug\dentis.Properties.Resources.resources
+E:\school\dantis\dentis\obj\Debug\dentis.csproj.GenerateResource.cache
+E:\school\dantis\dentis\obj\Debug\dentis.csproj.CoreCompileInputs.cache
+E:\school\dantis\dentis\bin\Debug\dentis.exe.config
+E:\school\dantis\dentis\bin\Debug\dentis.exe
+E:\school\dantis\dentis\bin\Debug\dentis.pdb
+E:\school\dantis\dentis\obj\Debug\dentis.exe
+E:\school\dantis\dentis\obj\Debug\dentis.pdb
+E:\school\dantis\dentis\bin\Debug\lib.mdb
